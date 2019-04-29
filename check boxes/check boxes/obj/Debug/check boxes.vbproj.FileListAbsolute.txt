@@ -1,0 +1,21 @@
+F:\Hnd computing\VBprojects\check boxes\check boxes\bin\Debug\check boxes.exe.config
+F:\Hnd computing\VBprojects\check boxes\check boxes\obj\Debug\check_boxes.Form1.resources
+F:\Hnd computing\VBprojects\check boxes\check boxes\obj\Debug\check_boxes.Resources.resources
+F:\Hnd computing\VBprojects\check boxes\check boxes\obj\Debug\check boxes.vbproj.GenerateResource.Cache
+F:\Hnd computing\VBprojects\check boxes\check boxes\bin\Debug\check boxes.exe
+F:\Hnd computing\VBprojects\check boxes\check boxes\bin\Debug\check boxes.pdb
+F:\Hnd computing\VBprojects\check boxes\check boxes\bin\Debug\check boxes.xml
+F:\Hnd computing\VBprojects\check boxes\check boxes\obj\Debug\check boxes.exe
+F:\Hnd computing\VBprojects\check boxes\check boxes\obj\Debug\check boxes.xml
+F:\Hnd computing\VBprojects\check boxes\check boxes\obj\Debug\check boxes.pdb
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\check boxes\check boxes\bin\Debug\check boxes.exe.config
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\check boxes\check boxes\bin\Debug\check boxes.exe
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\check boxes\check boxes\bin\Debug\check boxes.pdb
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\check boxes\check boxes\bin\Debug\check boxes.xml
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\check boxes\check boxes\obj\Debug\check_boxes.Form1.resources
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\check boxes\check boxes\obj\Debug\check_boxes.Resources.resources
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\check boxes\check boxes\obj\Debug\check boxes.vbproj.GenerateResource.Cache
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\check boxes\check boxes\obj\Debug\check boxes.vbproj.CoreCompileInputs.cache
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\check boxes\check boxes\obj\Debug\check boxes.exe
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\check boxes\check boxes\obj\Debug\check boxes.xml
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\check boxes\check boxes\obj\Debug\check boxes.pdb
